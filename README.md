@@ -1,5 +1,5 @@
 # domain_parser
-parse main domain from full domain,such as www.qq.com, main domain is qq.com
+提取全域名中的根域名，例如www.best.com.cn 提取根域名为 best.com.cn
 
 需求来源：
 
